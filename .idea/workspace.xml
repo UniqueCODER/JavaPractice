@@ -2,11 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7ac158f3-9c60-4713-9ac9-4d140bbc1c23" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Hello World/org/ellycode/helloworld/OOP.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Hello World/org/ellycode/helloworld/OOP.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Hello World/org/ellycode/helloworld/Phone.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Hello World/org/ellycode/helloworld/Phone.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hello World/org/ellycode/helloworld/Bird.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Hello World/org/ellycode/helloworld/Bird.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hello World/org/ellycode/helloworld/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Hello World/org/ellycode/helloworld/Dog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hello World/org/ellycode/helloworld/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Hello World/org/ellycode/helloworld/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/org/ellycode/helloworld/Bird.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/ellycode/helloworld/Bird.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/ellycode/helloworld/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/ellycode/helloworld/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/ellycode/helloworld/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/ellycode/helloworld/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -124,30 +126,35 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1683" y="0" width="390" height="688" key="#com.intellij.ide.util.MemberChooser" timestamp="1601733453927">
-      <screen x="1366" y="0" width="1024" height="768" />
+    <state x="423" y="0" width="390" height="688" key="#com.intellij.ide.util.MemberChooser" timestamp="1601914423454">
+      <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="1683" y="0" width="390" height="688" key="#com.intellij.ide.util.MemberChooser/0.0.1366.768/1366.0.1024.768@1366.0.1024.768" timestamp="1601733453927" />
-    <state width="981" height="13" key="GridCell.Tab.0.bottom" timestamp="1601741283515">
-      <screen x="1366" y="0" width="1024" height="768" />
+    <state x="423" y="0" key="#com.intellij.ide.util.MemberChooser/0.0.1366.768@0.0.1366.768" timestamp="1601914423454" />
+    <state width="1323" height="241" key="GridCell.Tab.0.bottom" timestamp="1601915938031">
+      <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state width="1323" height="192" key="GridCell.Tab.0.bottom/0.0.1366.768/1366.0.1024.768@0.0.1366.768" timestamp="1601680125860" />
     <state width="981" height="13" key="GridCell.Tab.0.bottom/0.0.1366.768/1366.0.1024.768@1366.0.1024.768" timestamp="1601741283515" />
-    <state width="981" height="13" key="GridCell.Tab.0.center" timestamp="1601741283515">
-      <screen x="1366" y="0" width="1024" height="768" />
+    <state width="1323" height="241" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1601915938031" />
+    <state width="1323" height="241" key="GridCell.Tab.0.center" timestamp="1601915938031">
+      <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state width="1323" height="192" key="GridCell.Tab.0.center/0.0.1366.768/1366.0.1024.768@0.0.1366.768" timestamp="1601680125859" />
     <state width="981" height="13" key="GridCell.Tab.0.center/0.0.1366.768/1366.0.1024.768@1366.0.1024.768" timestamp="1601741283515" />
-    <state width="981" height="13" key="GridCell.Tab.0.left" timestamp="1601741283515">
-      <screen x="1366" y="0" width="1024" height="768" />
+    <state width="1323" height="241" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1601915938031" />
+    <state width="1323" height="241" key="GridCell.Tab.0.left" timestamp="1601915938030">
+      <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state width="1323" height="192" key="GridCell.Tab.0.left/0.0.1366.768/1366.0.1024.768@0.0.1366.768" timestamp="1601680125859" />
     <state width="981" height="13" key="GridCell.Tab.0.left/0.0.1366.768/1366.0.1024.768@1366.0.1024.768" timestamp="1601741283515" />
-    <state width="981" height="13" key="GridCell.Tab.0.right" timestamp="1601741283515">
-      <screen x="1366" y="0" width="1024" height="768" />
+    <state width="1323" height="241" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1601915938030" />
+    <state width="1323" height="241" key="GridCell.Tab.0.right" timestamp="1601915938031">
+      <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state width="1323" height="192" key="GridCell.Tab.0.right/0.0.1366.768/1366.0.1024.768@0.0.1366.768" timestamp="1601680125859" />
     <state width="981" height="13" key="GridCell.Tab.0.right/0.0.1366.768/1366.0.1024.768@1366.0.1024.768" timestamp="1601741283515" />
+    <state width="1323" height="241" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1601915938031" />
     <state x="378" y="207" key="com.intellij.ide.util.TipDialog" timestamp="1601903990891">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
